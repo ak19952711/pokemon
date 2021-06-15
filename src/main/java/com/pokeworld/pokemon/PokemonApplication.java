@@ -8,6 +8,8 @@ public class PokemonApplication {
 
 	public static void main(String[] args) {
 		System.out.println("RANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN");
+		System.out.println("ww RANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN");
+		System.out.println("wssssssw RANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN");
 		SpringApplication.run(PokemonApplication.class, args);
 	}
 
