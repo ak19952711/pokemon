@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PokemonApplication {
 
 	public static void main(String[] args) {
-		System.out.println("RANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN");
-		System.out.println("i am dev");
+		System.out.println("Dev Branch In Run");
 		SpringApplication.run(PokemonApplication.class, args);
 	}
 
