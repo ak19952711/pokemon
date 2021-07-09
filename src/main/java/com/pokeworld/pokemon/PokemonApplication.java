@@ -7,10 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PokemonApplication {
 
 	public static void main(String[] args) {
-		System.out.println("RANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN");
-		System.out.println("ww RANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN");
-		System.out.println("wssssssw RANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN");
-		System.out.println("i am master");
+		System.out.println("Master Branch");
+
 		SpringApplication.run(PokemonApplication.class, args);
 	}
 
